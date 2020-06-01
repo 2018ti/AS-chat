@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ui_title_back.png.flat",
+        "source": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\src\\main\\res\\mipmap-xhdpi\\ui_title_back.png"
+    },
+    {
+        "merged": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_msg_list.xml.flat",
+        "source": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\src\\main\\res\\layout\\layout_msg_list.xml"
+    },
+    {
+        "merged": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_logo.png.flat",
+        "source": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_logo.png"
+    },
+    {
+        "merged": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_device_list.xml.flat",
+        "source": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\src\\main\\res\\layout\\layout_device_list.xml"
+    },
+    {
+        "merged": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "D:\\Users\\xill\\windows\\Desktop\\new\\bluetooth\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    }
+]

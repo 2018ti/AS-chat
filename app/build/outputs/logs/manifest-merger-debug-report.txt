@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\62fafa52f9dd42022581bbecd2648120\appcompat-v7-23.4.0\AndroidManifest.xml:17:1-27:12
+MERGED from [org.xutils:xutils:3.3.34] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\d23766cf9d8c7cbf17db22f843f5936f\xutils-3.3.34\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\983788242c0c1faf8f5e833478614564\animated-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\bada1e1fd7281982b48527942e9fe0ae\support-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\5acf6a62f2880815e48c34f5c32b52f1\support-v4-23.4.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:12:22-75
+application
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:15:5-41:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\62fafa52f9dd42022581bbecd2648120\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\62fafa52f9dd42022581bbecd2648120\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [org.xutils:xutils:3.3.34] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\d23766cf9d8c7cbf17db22f843f5936f\xutils-3.3.34\AndroidManifest.xml:12:5-20
+MERGED from [org.xutils:xutils:3.3.34] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\d23766cf9d8c7cbf17db22f843f5936f\xutils-3.3.34\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\983788242c0c1faf8f5e833478614564\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\983788242c0c1faf8f5e833478614564\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\bada1e1fd7281982b48527942e9fe0ae\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\bada1e1fd7281982b48527942e9fe0ae\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\5acf6a62f2880815e48c34f5c32b52f1\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\5acf6a62f2880815e48c34f5c32b52f1\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:19:9-28
+activity#cn.com.lenew.bluetooth.activity.MainActivity
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:22:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:26:27-74
+activity#cn.com.lenew.bluetooth.activity.ChatActivity
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:29:9-68
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:29:19-56
+service#cn.com.lenew.bluetooth.service.ServerService
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:31:9-35:19
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:31:18-55
+intent-filter#action:name:bid.yangjing.bluetooth.ServerService
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:32:13-34:29
+action#bid.yangjing.bluetooth.ServerService
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:33:25-76
+service#cn.com.lenew.bluetooth.service.MessageService
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:36:9-40:19
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:36:18-56
+intent-filter#action:name:bid.yangjing.bluetooth.MessageService
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:37:13-39:29
+action#bid.yangjing.bluetooth.MessageService
+ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:38:17-79
+	android:name
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml:38:25-77
+uses-sdk
+INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\62fafa52f9dd42022581bbecd2648120\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\62fafa52f9dd42022581bbecd2648120\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [org.xutils:xutils:3.3.34] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\d23766cf9d8c7cbf17db22f843f5936f\xutils-3.3.34\AndroidManifest.xml:8:5-10:41
+MERGED from [org.xutils:xutils:3.3.34] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\d23766cf9d8c7cbf17db22f843f5936f\xutils-3.3.34\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\983788242c0c1faf8f5e833478614564\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\983788242c0c1faf8f5e833478614564\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\bada1e1fd7281982b48527942e9fe0ae\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\bada1e1fd7281982b48527942e9fe0ae\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\5acf6a62f2880815e48c34f5c32b52f1\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\5acf6a62f2880815e48c34f5c32b52f1\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\xill\.gradle\caches\transforms-2\files-2.1\62fafa52f9dd42022581bbecd2648120\appcompat-v7-23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\xill\windows\Desktop\new\bluetooth\app\src\main\AndroidManifest.xml
